@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **MERN Stack Dev, UI/UX Design, React Native, & Tailwind**
 
-- 👨‍💻 View my portfolio [https://sites.google.com/worcester.edu/tori-parham-design/home](https://sites.google.com/worcester.edu/tori-parham-design/home)
+- 👨‍💻 View my portfolio [here](https://sites.google.com/worcester.edu/tori-parham-design/home).
 
 - 💬 Ask me about **React, UI/UX, accessibility**
 
