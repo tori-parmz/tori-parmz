@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **vparham@worcester.edu**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1sMeZrPWDPeeKDnuUqdCjm2Tnq6usSnIT/view?usp=sharing](https://drive.google.com/file/d/1sMeZrPWDPeeKDnuUqdCjm2Tnq6usSnIT/view?usp=sharing)
+- 📄 Know about my experiences [here](https://drive.google.com/file/d/1sMeZrPWDPeeKDnuUqdCjm2Tnq6usSnIT/view?usp=sharing).
 
 - ⚡ Fun fact **I am also a songwriter, video artist, photographer, and certified yoga teacher**
 
