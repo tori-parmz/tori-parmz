@@ -5,7 +5,7 @@
 
 - 👨‍💻 View my portfolio [here](https://sites.google.com/worcester.edu/tori-parham-design/home).
 
-- 💬 Ask me about **React, UI/UX, accessibility**
+- 💬 Ask me about **React, UI/UX, & accessibility**
 
 - 📫 How to reach me **vparham@worcester.edu**
 
