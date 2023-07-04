@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **A collaborative project for Hackspree 1.0**
 
-- 🌱 I’m currently learning **MERN Stack Dev, UI/UX Design, Next.js, React Native, & TailwindCSS**
+- 🌱 I’m currently learning **MERN Stack Dev, UI/UX Design, Next.js, React Native, & Tailwind CSS**
 
 - 👨‍💻 View my portfolio [here](https://sites.google.com/worcester.edu/tori-parham-design/home).
 
