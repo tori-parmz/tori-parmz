@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Tori</h1>
 <h3 align="center">A creative frontend developer from Chicago</h3>
 
-- 🔭 I’m currently working on **A collaborative project for Hackspree 1.0**
+- 🔭 I’m currently working on **my portfolio website via React**
 
-- 🌱 I’m currently learning **MERN Stack Dev, UI/UX Design, Next.js, React Native, & Tailwind CSS**
+- 🌱 I’m currently learning **MERN Stack Dev, UI/UX Design, Angular**
 
 - 👨‍💻 View my portfolio [here](https://sites.google.com/worcester.edu/tori-parham-design/home).
 
